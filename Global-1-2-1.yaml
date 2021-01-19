@@ -778,7 +778,7 @@ payload:
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN,youtubei.googleapis.com
-  - DOMAIN,kktv.me
-  - DOMAIN,line.me
-  - DOMAIN,linetv.tw
-  - DOMAIN,ptwxz.com
+  - DOMAIN-SUFFIX,kktv.me
+  - DOMAIN-SUFFIX,line.me
+  - DOMAIN-SUFFIX,linetv.tw
+  - DOMAIN-SUFFIX,ptwxz.com
